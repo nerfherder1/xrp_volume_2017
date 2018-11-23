@@ -14,14 +14,16 @@ I do not claim the below to be accurate but just for entertainment purposes.
 
     589 / 3.28 = 179.57  (589.00 / ATH)
     179.57 * 1,879,792,913.25 = 337,554,413,432.30
-    $337 BILLION DOLLARS TO REACH 589.00
-* **Twitter:** - [Rippening](https://twitter.com/rippening)
+    $337.50 BILLION DOLLARS TO REACH 589.00
+
 
 ## License
 No license.  Do what you will.
 
 ## Acknowledgments
-
+* **Twitter:** - [Rippening](https://twitter.com/rippening)
+* **Tips:** - rsCJ7ZKeXKacVSsiBZUZqgKxteradBUEuR
 ## Disclaimer
 I do not have live trades from that time.  I am merely taking what is available and using a "high estimation" to determine what it may take on one exchange to reach the ATH again.  Someone else can figure out what it may take to hit 589.00 for or against the EOY 2018 arguement people love to discuss.
+
 
