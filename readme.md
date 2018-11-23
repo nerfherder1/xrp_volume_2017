@@ -1,4 +1,4 @@
-# XRP BULL RUN ESTIMATION
+# XRP 2017 BULL RUN ESTIMATION
 
 Basic calculation (without live trades during that time) using 5 min interval.  
 It pull the data from the day before bull run to the completed bar of the highest peak.  
